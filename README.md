@@ -16,4 +16,7 @@ MODEL 3:
 MOBILENETV2 
 
 DATA SET :
-Web scraped dataset containing mask and no mask images
+Web scraped dataset using selinium containing mask and no mask images
+
+# Demo
+![Demo](Demo.gif)
